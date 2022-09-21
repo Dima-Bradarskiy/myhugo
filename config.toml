@@ -83,3 +83,9 @@ displayrssicon = true
     identifier = "coderag"
     weight = 300
     url = "/coderag/"
+
+[module]
+[module.imports]
+    - path= 'github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify-cms'
+    - path= 'github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify'
+    - path= 'github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5'
