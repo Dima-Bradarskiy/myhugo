@@ -6,7 +6,7 @@ disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disa
 googleAnalytics = "XYZ"
 enableRobotsTXT = true
 
-## Site Settings
+
 [params]
 author = "Erlich Bachman"
 intro = "Startup Guru Extraordinaire"
